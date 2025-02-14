@@ -14,13 +14,15 @@ O pong é um jogo simples, lançado em 1972, e permite uma competição entre do
 
 ### **3. Proposta de Reinvenção** 
 Nossa reinvenção do jogo tem como tema gatos brincando com um novelo de lã na sala de uma casa. Para isso adicionamos os gatos e o cenário além de latas de sardinhas para representar a pontuação e camas de gato que servem para uma nova mecânica. Quando um jogador consegue acertar a cama de gato que aparece aleatoriamente na linha do meio do jogo o próximo acerto do adversário não resulta em um ponto adicional, servindo assim como uma defesa. Dessa forma um novo objetivo é adicionado ao jogo beneficiando o jogador mais habilidoso e diminuindo a influência da sorte na gameplay. No geral o objetivo de Pawng é tornar o Pong mais bonito e engajante esteticamente, assim como adicionar uma experiência competitiva ainda mais divertida.
+<img src="https://i.ibb.co/WvP1Qjy9/pawng-concept-art.jpg" align="center">
 
 <hr>
 
 **4. Tela Digital do Jogo**
 - O concept foi adaptado fielmente pra arte digital, alterando apenas o conceito das "latas de sardinha", em que, em vez de elas representarem um power-up, elas passaram a representar a pontuação do jogador.
 - Também seguimos bem fielmente a concept art, apenas transformando a arte já feita no papel em algo digitalizado.
-- O uso das cores e background foi utilizado para dar um ar mais tranquilo e seguro pro jogo, apresentando um cenário do cotidiano (uma sala de estar) com cores predominantemente 
+- O uso das cores e background foi utilizado para dar um ar mais tranquilo e seguro pro jogo, apresentando um cenário do cotidiano (uma sala de estar) com cores predominantemente calmas.
+<img src="https://i.ibb.co/mFg9Nk6C/Pawng.png" align="center">
 
 **5. Reflexão e Aprendizados**
 Carlos Quaglia:
