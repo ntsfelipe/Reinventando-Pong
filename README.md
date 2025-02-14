@@ -32,4 +32,4 @@ Habilidade desenvolvida: Foi um aprendizado desenvolver a estética do Pawng com
 Felipe Neves:
 Desafio: Os maiores desafios foram passar as ideias para o papel para visualizá-las, e representar a arte feita à mão em um espaço digitalizado como o Figma pela falta de prática com a ferramenta.
 Habilidade desenvolvida: Um melhor entendimento de como o Figma funciona e como a arte influencia o design de um jogo
-6.
+
